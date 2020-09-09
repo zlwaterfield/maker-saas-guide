@@ -12,21 +12,13 @@ Everything that is recommended in this guide is taking into account that goal ba
   3. Security and data privacy - This is a category that a lot sadly dismiss but this guide will focus on it. While the price is important we do not want our users' data to be sold or have the risk of being leaked so using services that care about data compliance and security is important.
 
 ## Sections
- - [Frameworks](#framworks)
- - [Hosting](#hosting)
- - [Databases](#databases)
  - [Payments](#payments)
  - [Email](#email)
  - [Terms of Service and Privacy Policy](#terms-of-service-and-privacy-policy)
-
-#### Coding Frameworks
-WIP...
-
-#### Hosting
-WIP...
-
-#### Databases
-WIP...
+ - [Coding Frameworks](#coding-framworks)
+ - [No-code](#no-code)
+ - [Hosting](#hosting)
+ - [Databases](#databases)
 
 ### Payments
 Payments are one of the easier sections because there is a clear winner; [Stripe](https://stripe.com). Stripe is a perfect solution for accepting payments. With Stripe you can accept all major credit cards, ACH (bank transfers), and many other international payment types. You can set up an account for free without an incorporation. They've integrated services like [Stripe Billing](https://stripe.com/billing) to managing your reoccurring transactions, [Stripe Connect](https://stripe.com/connect) to manage payouts to customers (mainly used for marketplaces) and [Stripe Checkout](https://stripe.com/docs/payments/checkout) to help your customers enter/update their payment details without you having to build any UI.
@@ -49,6 +41,18 @@ WIP...
 WIP...
 
 ### Terms of Service and Privacy Policy
+WIP...
+
+#### Coding Frameworks
+WIP...
+
+#### No-code
+WIP...
+
+#### Hosting
+WIP...
+
+#### Databases
 WIP...
 
 ## Contributing
