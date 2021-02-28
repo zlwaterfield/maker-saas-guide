@@ -1,6 +1,8 @@
 # A Guide to making a Saas Products
 The goal of the repository is to outline the best products and practices to use when building SaaS products. The target demographic is makers, early-stage founders, engineers and anyone else making in the making SaaS products for the web. This is a work in progress based on the experiences of real makers. The content is meant to act as a template/handbook on how to launch a SaaS product from both a technical and operational standpoint. It will cover topics like technical stack, hosting, email providers, payment providers, customer service solutions, terms of service generation, etc.
 
+These days many products both bootstapped and funded are an aggreataion of many of products and services. The build vs. buy mentality doesn't exist as much when building SaaS because most things you can buy at an affordable price that will scale with your platform. This guide helps you choose what to buy and in some rare instances, when you should build your own.
+
 ## Criteria
 It is important to be intentional about your decisions when launching a SaaS product. You want to think ahead about what your goals are and use those to steer your decisions. You need to be efficient and conscious in order to make sure you are always working towards those goals.
 
@@ -19,6 +21,7 @@ Everything that is recommended in this guide is taking into account that goal ba
  - [No-code](#no-code)
  - [Hosting](#hosting)
  - [Databases](#databases)
+ - [Authentication](#authentication)
 
 ### Payments
 Payments are one of the easier sections because there is a clear winner; [Stripe](https://stripe.com). Stripe is a perfect solution for accepting payments. With Stripe you can accept all major credit cards, ACH (bank transfers), and many other international payment types. You can set up an account for free without an incorporation. They've integrated services like [Stripe Billing](https://stripe.com/billing) to managing your reoccurring transactions, [Stripe Connect](https://stripe.com/connect) to manage payouts to customers (mainly used for marketplaces) and [Stripe Checkout](https://stripe.com/docs/payments/checkout) to help your customers enter/update their payment details without you having to build any UI.
