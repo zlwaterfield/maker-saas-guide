@@ -35,7 +35,34 @@ Payments are one of the easier sections because there is a clear winner; [Stripe
 - **[Baremetrics](https://baremetrics.com/)** - Baremetrics is not a payment processor but it is a great complimentary product to add to your payments stack one you are processing a lot of money. They add great charting and insights and integrate directly into your payment processor.
 
 ### Email
-WIP...
+There are many solutions you can use for sending emails to your users. It is important to note there are two types of emails; transactional and marketing. Transaction are emails directed to specific users based on actions they perform. Examples include reset password emails, payment receipts, notification emails that they have a new message, etc. Marketing emails are emails sent to larger groups of users that are general. These can include new feature newsletters, terms of service changes, new blog post notification, etc.
+
+#### Transactional emails
+[Postmark](https://postmarkapp.com) is a great solution for transactional emails.
+
+##### Breaking it down by criteria:
+- **[Pricing](https://postmarkapp.com/pricing)**:
+- **Ease of integration and management**:
+- **Security and data privacy**:
+- **Extras**: Postmark is currently beta-ing a transactional email product as well.
+
+##### Alternative solutions:
+- **[SendGrid](https://sendgrid.com)** -
+
+#### Marketing emails
+Typically you won't need a marketing email solution upfront unless you are growing a large subscribe wait-list. Mailchimp is one of the more popular solutions in this category but it is expensive and a lot of the core features aren't available unless you are on a premium subscription. There are some cheaper and friendly solutions that are worth starting with.
+
+[mailjet](https://www.mailjet.com) is an affordable solution with the perfect set of features.
+
+##### Breaking it down by criteria:
+- **[Pricing](https://www.mailjet.com/pricing)**:
+- **Ease of integration and management**:
+- **Security and data privacy**:
+- **Extras**:
+
+##### Alternative solutions:
+- **[Mailchimp](https://mailchimp.com)** -
+- **[moosend](https://moosend.com)** -
 
 ### Customer service
 WIP...
