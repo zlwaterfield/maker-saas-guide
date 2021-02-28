@@ -1,4 +1,4 @@
-# A Guide to making a Saas Product
+# A Guide to making a Saas Products
 The goal of the repository is to outline the best products and practices to use when building SaaS products. The target demographic is makers, early-stage founders, engineers and anyone else making in the making SaaS products for the web. This is a work in progress based on the experiences of real makers. The content is meant to act as a template/handbook on how to launch a SaaS product from both a technical and operational standpoint. It will cover topics like technical stack, hosting, email providers, payment providers, customer service solutions, terms of service generation, etc.
 
 ## Criteria
